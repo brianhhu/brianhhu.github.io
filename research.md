@@ -30,7 +30,7 @@ We propose a recurrent neural model that explains several sets of neurophysiolog
 
 Natural visual exploration makes use of both head movements and eye movements. Here, we study the role of head movements when viewing large-scale, immersive images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
 
-[Data](https://github.com/brianhhu/VR_HeadMovements) | [Paper](http://brianhhu.github.io/files/Hu_etal17_HeadMovements.pdf)
+[Code and Data](https://github.com/brianhhu/VR_HeadMovements) | [Paper](http://brianhhu.github.io/files/Hu_etal17_HeadMovements.pdf)
 
 **3D Visual Saliency**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_3DSaliency.png" width="250">
