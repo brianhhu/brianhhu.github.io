@@ -4,6 +4,20 @@ title: Research
 subtitle: These are the projects I have worked on...
 published: true
 ---
+**Figure-Ground Representation in Deep Neural Networks**
+<img style="float: right;" src="http://brianhhu.github.io/img/Fig_DOC.png" width="250">
+
+Deep neural networks achieve state-of-the-art performance on many image segmentation tasks. However, the nature of the learned representations used by these networks is unclear. We explored whether deep neural networks use representations close to those of biological brains, in particular whether they explicitly represent border ownership selectivity (BOS). We therefore developed a suite of in-silico experiments to test for BOS, similar to experiments that have been used to probe primate BOS.
+
+[Code](https://github.com/brianhhu/DOC-tf) | [Paper](https://ieeexplore.ieee.org/document/8693039)
+
+**Convolutional Neural Networks with Extra-classical Receptive Fields**
+<img style="float: right;" src="http://brianhhu.github.io/img/Fig_CnnEx.png" width="250">
+
+In contrast to what is known from biology, convolutional neural networks (CNNs) largely rely on feedforward connections, ignoring the influence of recurrent connections. They also focus on supervised rather than unsupervised learning. To address these issues, we combine traditional supervised learning via backpropagation with a specialized unsupervised learning rule to learn lateral connections between neurons within a convolutional neural network. These connections have been shown to optimally integrate information from the surround, generating extra-classical receptive fields for the neurons in our new proposed model (CNNEx). 
+
+Code | [Preprint](https://arxiv.org/abs/1810.11594)
+
 **Bayesian Object Recognition**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_BIAS.png" width="250">
 
