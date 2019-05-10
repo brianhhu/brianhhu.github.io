@@ -7,7 +7,7 @@ published: true
 **Figure-Ground Representation in Deep Neural Networks**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_DOC.png" width="250">
 
-Deep neural networks achieve state-of-the-art performance on many image segmentation tasks. We explored whether deep neural networks use learned representations close to those of biological brains, in particular whether they explicitly represent border ownership selectivity (BOS). We developed a suite of in-silico experiments to test for BOS, similar to experiments that have been used to probe primate BOS. In the networks we tested, we largely found contrast selectivity and border ownership selectivity only in higher layers.
+Deep neural networks achieve state-of-the-art performance on many image segmentation tasks. We explored whether deep neural networks use learned representations close to those of biological brains, in particular whether they explicitly represent border ownership selectivity (BOS). We developed a suite of in-silico experiments to test for BOS, similar to experiments that have been used to probe primate BOS. In the networks we tested, we largely found contrast selectivity, with border ownership selectivity appearing only in higher layers.
 
 [Code](https://github.com/brianhhu/DOC-tf) | [Paper](https://ieeexplore.ieee.org/document/8693039)
 
@@ -23,7 +23,7 @@ Code | [Preprint](https://arxiv.org/abs/1810.11594)
 
 During visual perception of complex objects, humans shift their gaze to different regions of a particular object in order to gain more information about that object. We propose a parts-based, Bayesian framework for integrating information across receptive fields and fixation locations in order to recognize objects.
 
-[Report](http://brianhhu.github.io/files/Hu_BIAS_Report.pdf)
+| [Report](http://brianhhu.github.io/files/Hu_BIAS_Report.pdf)
 
 **Figure-Ground Segmentation in Natural Images**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_FG.png" width="250">
