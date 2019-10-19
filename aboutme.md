@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Computational Neuroscientist/Vision Researcher
+subtitle: Deep Learning/Computer Vision/Computational Neuroscience
 published: true
 ---
 
