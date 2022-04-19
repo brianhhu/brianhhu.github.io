@@ -16,7 +16,7 @@ Deep neural networks achieve state-of-the-art performance on many image segmenta
 
 Convolutional neural networks (CNNs) largely rely on feedforward connections, ignoring the influence of recurrent connections. They also focus on supervised rather than unsupervised learning. To address these issues, we combine traditional supervised learning via backpropagation with a specialized unsupervised learning rule to learn lateral connections between neurons within a convolutional neural network. These connections optimally integrate information from the surround, generating extra-classical receptive fields for the neurons in our new proposed model (CNNEx). 
 
-Code | [Paper](https://www.frontiersin.org/articles/10.3389/fncom.2020.00031/full)
+[Code](https://github.com/AllenInstitute/CnnEx) | [Paper](https://www.frontiersin.org/articles/10.3389/fncom.2020.00031/full)
 
 **Bayesian Object Recognition**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_BIAS.png" width="250">
