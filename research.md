@@ -9,7 +9,7 @@ published: true
 
 Deep neural networks achieve state-of-the-art performance on many image segmentation tasks. We explored whether deep neural networks use learned representations close to those of biological brains, in particular whether they explicitly represent border ownership selectivity (BOS). We developed a suite of in-silico experiments to test for BOS, similar to experiments that have been used to probe primate BOS. In the networks we tested, we largely found contrast selectivity, with border ownership selectivity appearing only in higher layers.
 
-[Code](https://github.com/brianhhu/DOC-tf) | [Paper](https://ieeexplore.ieee.org/document/8693039)
+[Code](https://github.com/brianhhu/DOC-tf) | [Paper](http://brianhhu.github.io/files/Hu_etal19_CISS.pdf)
 
 **Convolutional Neural Networks with Extra-classical Receptive Fields**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_CnnEx.png" width="250">
@@ -44,7 +44,7 @@ We propose a recurrent neural model that explains several sets of neurophysiolog
 
 Natural visual exploration makes use of both head movements and eye movements. Here, we study the role of head movements when viewing large-scale, immersive images in virtual reality. We quantify head movement kinematics under these conditions and show that head movements follow a stereotyped pattern.
 
-[Code/Data](https://github.com/brianhhu/VR_HeadMovements) | [Paper](http://brianhhu.github.io/files/Hu_etal17_HeadMovements.pdf)
+[Code/Data](https://github.com/brianhhu/VR_HeadMovements) | [Paper](http://brianhhu.github.io/files/Hu_etal17_HeadMovements.pdf) | [Paper](http://brianhhu.github.io/files/Hu_etal18_CISS.pdf)
 
 **3D Visual Saliency**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_3DSaliency.png" width="250">
